@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/titleScreen.unity
+    guid: 38c47f4d3a98e96468daa378d978d91c
+  - enabled: 1
+    path: Assets/scenes/dialoguescene.unity
+    guid: bda14768a8a6ae241959629c1706a605
+  - enabled: 1
+    path: Assets/scenes/dellapisoundscene.unity
+    guid: 6109cc9c12cb743438f4498b976128e3
+  - enabled: 1
+    path: Assets/scenes/healthbarscene.unity
+    guid: 7cd8150428e36594d9d75a8c48b75d0c
+  - enabled: 1
+    path: Assets/scenes/EndingScene.unity
+    guid: 0286cb1443a03c44892096161167bba1
+  - enabled: 0
+    path: 
+    guid: 9767f997d804cf141a8a5367bb3b8ce1
+  - enabled: 0
+    path: 
+    guid: e2e692b5d771e1b40aafbbcea37cd1ca
+  - enabled: 1
+    path: Assets/scenes/MasterScene.unity
+    guid: 90e15da4b0c63894d98d4e81927d4631
+  - enabled: 1
+    path: Assets/scenes/transitionScene.unity
+    guid: 6f4a55f44be9a9e4bae9a5c28f8ad02b
+  - enabled: 1
+    path: Assets/scenes/tutorialScene.unity
+    guid: cce3768cb33a99248bf2bc25bd1394c4
+  - enabled: 1
+    path: Assets/scenes/endingSceneFinal.unity
+    guid: fab1c18af062d67409cf272628b2d096
