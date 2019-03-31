@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 12dd231fd7702ab478fd662dae489f54
+timeCreated: 1509045191
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fighting Spirit TBS
+  fontNames:
+  - Fighting Spirit TBS
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
